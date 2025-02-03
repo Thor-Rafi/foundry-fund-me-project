@@ -224,9 +224,7 @@ So, then you have two options:
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
-
-ETH/Arbitrum/Optimism/Polygon/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
+If you appreciated this, feel free to give me a star!
 
 [![Twitter] https://x.com/Rafi_Ackermann?s=09
 
